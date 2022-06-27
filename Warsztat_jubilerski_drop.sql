@@ -1,0 +1,12 @@
+DROP TABLE Dostawy;
+DROP TABLE Dostawcy;
+DROP TABLE Potrzebne_materialy;
+DROP TABLE Zamowienia;
+DROP TABLE Klienci;
+DROP TABLE Stan_magazynu;
+DROP TABLE Uzupelnianie_magazynu;
+DROP TABLE Magazyny;
+DROP TABLE Tworzenie_wyrobow;
+DROP TABLE Materialy;
+DROP TABLE Pracownicy;
+DROP TABLE Wyroby;
